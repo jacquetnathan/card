@@ -1,6 +1,6 @@
 {
-  "name": "@jacquetnathan/card",
-  "version": "1.6.0",
+  "name": "jacquetnathan",
+  "version": "1.0.0",
   "description": "A personal card for Jacquet Nathan (@jacquetnathan)",
   "main": "/bin/card.js",
   "bin": {
@@ -40,8 +40,5 @@
   "bugs": {
     "url": "https://github.com/jacquetnathan/card/issues"
   },
-  "dependencies": {},
-  "publishConfig": {
-    "registry": "https://npm.registry.github.com/"
-  }
+  "dependencies": {}
 }
